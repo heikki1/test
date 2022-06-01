@@ -14,3 +14,5 @@
 `git commit -m 'joku viesti mitä tehnyt'` - tee commit viestillä
 
 `git push origin new-branch` pushaa commitoidut muutokset githubiin
+
+`git mkdir - tee uusi kansio¨
