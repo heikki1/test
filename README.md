@@ -15,4 +15,4 @@
 
 `git push origin new-branch` pushaa commitoidut muutokset githubiin
 
-`git mkdir - tee uusi kansio¨
+`git mkdir` - tee uusi kansio¨
